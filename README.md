@@ -16,3 +16,5 @@
 ### Mindset and Habit
 <img width="636" height="817" alt="image" src="https://github.com/user-attachments/assets/443874eb-a143-469b-8369-04bd1412af86" />
 
+### How To properly ask for help
+<img width="566" height="226" alt="image" src="https://github.com/user-attachments/assets/fe99f970-32f1-4b7f-971a-9211c3300ad0" />
