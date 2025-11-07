@@ -11,4 +11,8 @@
 
 
 ### Motivation
-- <img width="691" height="295" alt="image" src="https://github.com/user-attachments/assets/faa65c39-d163-4940-a6d8-f409bbdc0552" />
+<img width="691" height="295" alt="image" src="https://github.com/user-attachments/assets/faa65c39-d163-4940-a6d8-f409bbdc0552" />
+
+### Mindset and Habit
+<img width="636" height="817" alt="image" src="https://github.com/user-attachments/assets/443874eb-a143-469b-8369-04bd1412af86" />
+
