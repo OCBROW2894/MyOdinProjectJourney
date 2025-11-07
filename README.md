@@ -8,3 +8,7 @@
 <br>
 
   ![MuaKissGIF](https://github.com/user-attachments/assets/c6e29d6c-535f-4eda-8cb8-bcd7f1561217)
+
+
+### Motivation
+- <img width="691" height="295" alt="image" src="https://github.com/user-attachments/assets/faa65c39-d163-4940-a6d8-f409bbdc0552" />
