@@ -3,8 +3,8 @@
 -  So she came back and asked if I've ever heard of <b><i>THE ODIN PROJECT</i></b>, and honestly I didn't, <b>I'VE NEVER SEEN HER THAT <i>MAD</i> AND <i>DISAPPOINTED</i></b> so I decided to look for it and Do it.
 -  I'm doing it for Her because nothing here is new to me🤗🤗🤗, After all I'm sure I'll find something new that will be worth It.
 -  I'm just glad to have such friends that Push me to Greatness.
--  Click the link below To Start your own Journey:-
--   https://www.theodinproject.com/dashboard 
+-  Click the link To Start your own Journey:-
+  https://www.theodinproject.com/dashboard 
 <br>
 
   ![MuaKissGIF](https://github.com/user-attachments/assets/c6e29d6c-535f-4eda-8cb8-bcd7f1561217)
