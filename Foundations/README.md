@@ -10,3 +10,6 @@
 
 ## How the Web Works
 <img width="787" height="743" alt="image" src="https://github.com/user-attachments/assets/cc3a7580-f317-42c0-a597-e5712bf28009" />
+
+<img width="677" height="440" alt="image" src="https://github.com/user-attachments/assets/df18fffa-87c4-496b-aa32-75472dc8c141" />
+
