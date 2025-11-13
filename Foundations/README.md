@@ -13,3 +13,7 @@
 
 <img width="677" height="440" alt="image" src="https://github.com/user-attachments/assets/df18fffa-87c4-496b-aa32-75472dc8c141" />
 
+### DNS Explained
+<img width="667" height="566" alt="image" src="https://github.com/user-attachments/assets/1d19a0f2-41e6-4cf7-87b6-3779443738bb" />
+
+
