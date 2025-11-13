@@ -16,4 +16,7 @@
 ### DNS Explained
 <img width="667" height="566" alt="image" src="https://github.com/user-attachments/assets/1d19a0f2-41e6-4cf7-87b6-3779443738bb" />
 
+### Packets Explained
+<img width="661" height="514" alt="image" src="https://github.com/user-attachments/assets/38dacc7a-20b6-46a1-84c0-61fbea63eb3a" />
+
 
