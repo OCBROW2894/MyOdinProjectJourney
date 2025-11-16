@@ -19,5 +19,5 @@
 ### Packets Explained
 <img width="661" height="514" alt="image" src="https://github.com/user-attachments/assets/38dacc7a-20b6-46a1-84c0-61fbea63eb3a" />
 
-### HTTP basics STREAK
+### HTTP basics
 
