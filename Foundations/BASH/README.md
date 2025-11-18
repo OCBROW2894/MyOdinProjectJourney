@@ -7,3 +7,6 @@
 
 ### Structure
 <img width="359" height="185" alt="Screenshot from 2025-11-18 04-54-43" src="https://github.com/user-attachments/assets/6c365d7d-311c-420c-9d2b-5c1a2ff1794d" />
+
+### TakeHome
+<img width="879" height="533" alt="Screenshot from 2025-11-18 05-07-22" src="https://github.com/user-attachments/assets/7135798c-158f-4204-82d6-734f60168183" />
