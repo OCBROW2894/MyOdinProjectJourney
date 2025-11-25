@@ -25,3 +25,6 @@
 
 ### Piping Flow Example
 <img width="848" height="580" alt="Screenshot from 2025-11-25 14-52-38" src="https://github.com/user-attachments/assets/d9c5b51b-c117-466e-81c6-954c1792e7f8" />
+
+### TakeHome
+<img width="897" height="472" alt="Screenshot from 2025-11-25 16-15-37" src="https://github.com/user-attachments/assets/fb3cdd6e-5f83-48e4-8a25-95905f074e35" />
