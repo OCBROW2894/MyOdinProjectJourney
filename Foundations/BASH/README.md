@@ -17,3 +17,5 @@
 ### WildCards
 <img width="788" height="487" alt="Screenshot from 2025-11-24 17-48-06" src="https://github.com/user-attachments/assets/552690a5-ca97-41b9-8272-5d4e92cd9f1f" />
 
+### TakeHome
+<img width="891" height="505" alt="Screenshot from 2025-11-25 13-13-31" src="https://github.com/user-attachments/assets/d8319879-2e5d-48bd-8331-55ac404770c8" />
