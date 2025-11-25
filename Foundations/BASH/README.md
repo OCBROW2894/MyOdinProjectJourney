@@ -22,3 +22,6 @@
 
 ### Pipes
 <img width="896" height="547" alt="Screenshot from 2025-11-25 13-46-11" src="https://github.com/user-attachments/assets/7377b5d3-685f-446a-9fe5-accd8f0679b1" />
+
+### Piping Flow Example
+<img width="848" height="580" alt="Screenshot from 2025-11-25 14-52-38" src="https://github.com/user-attachments/assets/d9c5b51b-c117-466e-81c6-954c1792e7f8" />
