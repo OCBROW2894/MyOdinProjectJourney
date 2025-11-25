@@ -10,3 +10,6 @@
 
 ### TakeHome
 <img width="879" height="533" alt="Screenshot from 2025-11-18 05-07-22" src="https://github.com/user-attachments/assets/7135798c-158f-4204-82d6-734f60168183" />
+
+### Working with Files
+<img width="782" height="540" alt="Screenshot from 2025-11-21 07-10-45" src="https://github.com/user-attachments/assets/ba96767f-653b-432f-afcc-2929ce261e31" />
