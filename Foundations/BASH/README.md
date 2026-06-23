@@ -32,3 +32,5 @@
 <img width="897" height="472" alt="Screenshot from 2025-11-25 16-15-37" src="https://github.com/user-attachments/assets/fb3cdd6e-5f83-48e4-8a25-95905f074e35" />
 Don't Forget <b><i>uniq -c </i></b>
 
+## LOOPS
+###
