@@ -33,6 +33,10 @@
 <img width="805" height="708" alt="image" src="https://github.com/user-attachments/assets/7fdf3a82-37ee-4f66-bcf2-3f134e0b56b0" />
 
 <p>Don't Forget <b><i>uniq -c </i></b></p>
+<img width="824" height="97" alt="image" src="https://github.com/user-attachments/assets/cba82ebe-7262-4b20-b5fe-9941b7a8366b" />
+<img width="341" height="32" alt="image" src="https://github.com/user-attachments/assets/b8eddfbe-6ce6-414d-9722-21d6d79a5e98" />
+
+
 
 ## LOOPS
 <img width="912" height="679" alt="Screenshot 2026-06-23 123821" src="https://github.com/user-attachments/assets/7de2e413-07d9-4701-afd8-cafdc2051c16" />
