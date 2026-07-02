@@ -30,6 +30,7 @@
 
 ### TakeHome
 <img width="897" height="472" alt="Screenshot from 2025-11-25 16-15-37" src="https://github.com/user-attachments/assets/fb3cdd6e-5f83-48e4-8a25-95905f074e35" />
+<img width="805" height="708" alt="image" src="https://github.com/user-attachments/assets/7fdf3a82-37ee-4f66-bcf2-3f134e0b56b0" />
 
 <p>Don't Forget <b><i>uniq -c </i></b></p>
 
