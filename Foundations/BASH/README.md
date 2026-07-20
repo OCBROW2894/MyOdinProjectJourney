@@ -48,5 +48,3 @@
 <img width="740" height="402" alt="image" src="https://github.com/user-attachments/assets/e45d1dac-fae5-4c70-8ec9-ec894d38d821" />
 
 <img width="908" height="196" alt="image" src="https://github.com/user-attachments/assets/307adbd5-bcd6-475e-9d3a-b2357afd80d6" />
-
-Revised Before continuing
