@@ -50,3 +50,9 @@
 <img width="908" height="196" alt="image" src="https://github.com/user-attachments/assets/307adbd5-bcd6-475e-9d3a-b2357afd80d6" />
 
 <img width="902" height="206" alt="image" src="https://github.com/user-attachments/assets/569c8d0a-c235-48d1-9119-f6bd9862d179" />
+
+## SHELL SCRIPTS
+<img width="899" height="408" alt="image" src="https://github.com/user-attachments/assets/3c143279-464d-4364-8f21-88dddac9e452" />
+
+### TakeHome
+<img width="900" height="349" alt="image" src="https://github.com/user-attachments/assets/cfdce765-57c5-4171-af8c-e7efd21d7401" />
