@@ -1,0 +1,5 @@
+  6 mostLines.sh
+  7 longest.sh
+  8 count_files.sh
+ 10 count.sh
+ 31 total
