@@ -58,6 +58,8 @@
 <img width="900" height="349" alt="image" src="https://github.com/user-attachments/assets/cfdce765-57c5-4171-af8c-e7efd21d7401" />
 
 ### Finding Things
-<img width="783" height="608" alt="image" src="https://github.com/user-attachments/assets/5b498fb8-1bb4-455d-ac7f-61c418c5cf36" />
+<img width="783" height="608" alt="image" src="https://github.com/user-attachments/assets/5b498fb8-1bb4-455d-ac7f-61c418c5cf36" /> <p>
+<b>NOTE:</b> To Change The Text Editor for writting Commit Message when you forget to use <b>"-m"</b> Use: to set up <b><i>git config --global core.editor "code --wait"</i></b>
+ 
 
 <b>To be continued:</b> It's an interesting <i>Rabbit Hole</i>, needed Mainly when Diving into <b><i> Data Analytics & Science, Cyber Security and Ethical Hacking</i> </b>
